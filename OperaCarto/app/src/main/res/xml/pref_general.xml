@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="show_info"
+        android:title="Informations"
+        android:summary="Show the information text at startup"
+        android:defaultValue="true" />
+
+</PreferenceScreen>

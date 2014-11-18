@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OperaCarto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textIntro">Cette aplication permet de recencer sur une carte les different point d\'acce mobile de votre operateur.\n Ceci dans le but de construir une carte réelle de l\'état du réseau de votre opérateur sur le térain et non sur des valleurs théorique, qui nous sont donnée.\n\n Cette application a un fonctionnement plutot simple. Elle enregistre l\'etat du réseau (2g,3g,4g, puissance de reception,...) et géolocalise tout cela grace au GPS de votre téléphone.\n\n Vous trouverez ci-dessous les parramttres et informations.</string>
+    <string name="npA">Ne plus afficher</string>
+    <string name="acceApli">Accèder à l\'application</string>
+    <string name="IntroduceTextMainActivity">Informations de votre opérateur</string>
+    <string name="cartoOp">Cartographie de la reception</string>
+
+</resources>
